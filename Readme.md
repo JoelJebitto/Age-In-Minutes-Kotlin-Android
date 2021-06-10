@@ -60,7 +60,7 @@
         androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     }
 
-## Strings.xml 
+## Strings.xml [File](app/src/main/res/values/strings.xml)
 
     <resources>
         <string name="app_name">AgeInMinutes</string>
@@ -74,7 +74,7 @@
     </resources>
 
 
-# colors.xml
+# colors.xml [File](app/src/main/res/values/colors.xml)
     <?xml version="1.0" encoding="utf-8"?>
     <resources>
         <color name="purple_200">#FFBB86FC</color>
@@ -89,7 +89,7 @@
         <color name="color3">#5EAFED</color>
     </resources>
 
-# activity_main.xml
+# activity_main.xml [File](app/src/main/res/layout/activity_main.xml)
     <?xml version="1.0" encoding="utf-8"?>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -179,7 +179,7 @@
     
     </LinearLayout>
 
-# MainActivity.kt
+# MainActivity.kt [File](app/src/main/java/com/joeljebitto/ageinminutesapp/MainActivity.kt)
     package com.joeljebitto.ageinminutesapp
 
     import android.app.DatePickerDialog
