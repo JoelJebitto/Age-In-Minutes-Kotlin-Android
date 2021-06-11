@@ -1,4 +1,5 @@
-## This Project Is Made Using [See Out Put](https://github.com/JoeJebitto/Android-Kotlin/blob/main/Age_In_Minutes/README.md)
+## [See Output](https://github.com/JoeJebitto/Android-Kotlin/blob/main/Age_In_Minutes/README.md)
+# This Project Is Made Using 
 
 ![Image1](https://raw.githubusercontent.com/JoeJebitto/Android-Kotlin/main/Image/Image3.png)
 ![Image2](https://raw.githubusercontent.com/JoeJebitto/Android-Kotlin/main/Image/Image4.png)
@@ -213,7 +214,6 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btnDatepicker).setOnClickListener { view ->
             clickDatePicker(view)
         }
-<<<<<<< HEAD
     }
 
     private fun clickDatePicker(view: View) {
@@ -250,8 +250,3 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-##
-=======
-        
-    }
->>>>>>> 6e89861fdb35ffca3dab65337aa1cb65d6d53fdc
