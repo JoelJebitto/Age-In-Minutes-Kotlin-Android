@@ -1,7 +1,8 @@
 ## This Project Is Made Using [See Out Put](https://github.com/JoeJebitto/Android-Kotlin/blob/main/Age_In_Minutes/README.md)
 
-![Android](Image/Image3.png)
-![Kotlin](Image/Image4.png)
+![Image1](https://raw.githubusercontent.com/JoeJebitto/Android-Kotlin/main/Image/Image3.png)
+![Image2](https://raw.githubusercontent.com/JoeJebitto/Android-Kotlin/main/Image/Image4.png)
+
 
 # Step 1
 
